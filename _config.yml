@@ -23,6 +23,8 @@ phone:
 website: austinblackstone.com #do not add http://
 linkedin: austinblackstone
 github: blackstoneengineering
+
+project-header: The projects I've worked on in the last 12 months run the gamut from embedded electronics to end to end IoT solutions incorporating both embedded software and web apps.
 # footer: copyright
 # Update all the sections by editing the files inside _includes folder.
 
