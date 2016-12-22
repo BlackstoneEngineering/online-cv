@@ -6,7 +6,7 @@
                 {% for project in site.data.projects %}
 
                 <div class="item">
-                    <span class="project-title"><a href="{{sproject.url}}">{{project.name}}</a></span> - <span class="project-tagline">{{project.description}}</span>
+                    <span class="project-title"><a href="{{sproject.url}}">{{project.name}}</a></span> - <span class="project-tagline">{{project.description | markdownify}}</span>
                     
                 </div><!--//item-->
                     

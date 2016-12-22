@@ -2,7 +2,23 @@
 - c:
   name: C/C++
   percent: 90
-  
+
+- microcontrollers:
+  name: ARM Cortex M 
+  percent: 95
+
 - python:
   name: python
+  percent: 85
+
+- web:
+  name: web (HTML / CSS / Javascript)
   percent: 75
+
+- pcb:
+  name: PCB Design / Layout
+  percent: 85
+
+- toolbench:
+  name: Logic Analyzer / Oscilloscope
+  percent: 100

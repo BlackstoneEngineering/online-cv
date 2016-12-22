@@ -4,24 +4,27 @@
   date: September 2014 - Present
   company: ARM mbed
   details: |
-    - role1: role1 description
-    - role2: role2 description
-    - role3: role3 description
+    - Managed Developer Enablement team (Trainings, Example Deployments, Hackathons, Forums, community management, quality of experience)
+    - Grew online community from 150K to over 300K developers during my time there
+    - Spear headed push into China to expand our user base
+    - Specialization in Wi-Fi and BLE, see projects below
 
 - Atlas Wearables:
   title: Lead Firmware Engineer
   date: July 2014 - August 2014
-  company: Texas Instruments
+  company: Atlas Wearables
   details: |
-    - role1: role1
-    - role2: role2
-    - role3: role3
+    - Responsible for development and integration of multiple peripherals and their drivers (cap touch, BLE, accel, gyro, heart rate, display)
+    - Scoped and implemented roadmap to product launch
 
 - TI:
-  title: Core Software Engineer
-  date: August 2012 - June 2014
+  title: Core Software Engineer, ARM Cortex M3/M4
+  date: January 2013 - June 2014
   company: Texas Instruments
   details: |
-    - role1: role1
-    - role2: role2
-    - role3: role3
+    - Core software maintainer for StellarisWare/TivaWare Driverlib, NFClib and CC3000lib
+    - Responsible for maker community outreach at the local Hackerspace / TechShop
+    - Create example applications across multiple pieces of silicon for CAN, CC3000, NFC
+    - Implement NDEF level NFC stack for the TRF7970A transceiver
+    - Extensive work with various sensors (I2C & SSI)
+    - Migrate code repositories from SVN to GIT

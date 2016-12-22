@@ -1,10 +1,35 @@
 ---
 - project1:
-  name: name
-  url: url
-  description: description
+  name: Continuous Integration Test Shield
+  url: https://www.github.com/armmbed/ci-test-shield
+  description: standardize mbed partner board validation process
 
 - project2:
-  name: name
+  name: Revamped Developer Enablement Program
   url: url
-  description: description
+  description: |
+    created [Youtube channel](https://youtube.com/armmbed), [workshop series](https://drive.google.com/open?id=0B9Whv5cCE_iEfldHdkp0RWtJbVhYeUFxWFcxNVQxaEpkeVZudS1YTUJtOGFOZVUzdlRhTHM), and [Quickstart program](https://blackstoneengineering.github.io/agency-jekyll-theme/)
+
+- project2:
+  name: mbed Service Check
+  url: url
+  description: |
+    Spearheaded Analytics program in China for mbed services
+
+- project2:
+  name: mbed Connector python API
+  url: https://github.com/armmbed/mbed-connector-api-python
+  description: |
+    Created [python interface library](https://github.com/armmbed/mbed-connector-api-python) and [quickstart program](https://github.com/armmbed/mbed-connector-api-python-quickstart) to make mbed Connector web services easy to use
+
+- project2:
+  name: Minecraft integration for mbed Connector
+  url: https://youtu.be/mBdBw8urAKQ
+  description: |
+    Control minecraft from real world using python interface. [Code here](https://github.com/BlackstoneEngineering/connector-minecraft-demo)
+
+- project2:
+  name: Design and Automation Conference 2016 Demo
+  url: https://github.com/BlackstoneEngineering/ble-scanner-station-demo
+  description: |
+    Dynamically insert ble beacon data into advertising signage
