@@ -1,0 +1,27 @@
+---
+- ARMmbed:
+  title: Senior Applications Engineer
+  date: September 2014 - Present
+  company: ARM mbed
+  details: |
+    - role1: role1 description
+    - role2: role2 description
+    - role3: role3 description
+
+- Atlas Wearables:
+  title: Lead Firmware Engineer
+  date: July 2014 - August 2014
+  company: Texas Instruments
+  details: |
+    - role1: role1
+    - role2: role2
+    - role3: role3
+
+- TI:
+  title: Core Software Engineer
+  date: August 2012 - June 2014
+  company: Texas Instruments
+  details: |
+    - role1: role1
+    - role2: role2
+    - role3: role3

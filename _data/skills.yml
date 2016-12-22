@@ -1,0 +1,8 @@
+---
+- c:
+  name: C/C++
+  percent: 90
+  
+- python:
+  name: python
+  percent: 75

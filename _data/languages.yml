@@ -1,0 +1,16 @@
+---
+- language1:
+  name: English
+  level: (Native)
+
+- language2:
+  name: Japanese
+  level: (Professional)
+
+- language3:
+  name: Spanish
+  level: (Knowledgable)
+
+- language4:
+  name: Korean
+  level: (Knowledgable)
