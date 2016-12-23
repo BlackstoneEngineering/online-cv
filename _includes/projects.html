@@ -10,12 +10,19 @@
                     
                 <div class="item">
                     <span class="project-title">
-                        {% if project.url %}
-                        <a href="{{project.url}}">{{project.name}}</a>
-                        {% else %}
                         {{project.name}}
+                    </span>
+                    
+                        <!-- add youtube icon -->
+                        {% if project.youtube %}
+                            <a class="fa fa-youtube-play" href="{{project.youtube}}"></a>
                         {% endif %}
-                    </span> - <span class="project-tagline">{{project.description | markdownify | remove: '<p>' | remove: '</p>'}}</span>
+                        <!-- add code icon -->
+                        {% if project.code%}
+                            <a class="fa fa-code" href="{{project.code}}"></a>
+                        {% endif %}
+                     - 
+                    <span class="project-tagline">{{project.description | markdownify | remove: '<p>' | remove: '</p>'}}</span>
                     
                 </div><!--//item-->
                 </li>
