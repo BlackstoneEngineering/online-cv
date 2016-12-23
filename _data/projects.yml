@@ -18,18 +18,18 @@
 
 - project2:
   name: mbed Connector python API
-  url: https://github.com/armmbed/mbed-connector-api-python
+  url: https://www.github.com/armmbed/mbed-connector-api-python
   description: |
     Created [python interface library](https://github.com/armmbed/mbed-connector-api-python) and [quickstart program](https://github.com/armmbed/mbed-connector-api-python-quickstart) to make mbed Connector web services easy to use
 
 - project2:
   name: Minecraft integration for mbed Connector
-  url: https://youtu.be/mBdBw8urAKQ
+  url: https://www.youtu.be/mBdBw8urAKQ
   description: |
     Control minecraft from real world using python interface. [Code here](https://github.com/BlackstoneEngineering/connector-minecraft-demo)
 
 - project2:
   name: Design and Automation Conference 2016 Demo
-  url: https://github.com/BlackstoneEngineering/ble-scanner-station-demo
+  url: https://www.github.com/BlackstoneEngineering/ble-scanner-station-demo
   description: |
     Dynamically insert ble beacon data into advertising signage
