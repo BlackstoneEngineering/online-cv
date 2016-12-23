@@ -1,0 +1,52 @@
+.noprint{
+	display: none;
+}
+
+a:link, 
+a:visited { 
+	color: #520; 
+	background: transparent; 
+	font-weight: bold; 
+	text-decoration: underline; 
+}
+
+.wrapper{
+	margin:0px;
+	padding:0px;
+}
+
+.sidebar-wrapper{
+	margin:0px;
+	padding: 0px;
+	min-height: 0px;
+}
+
+.sidebar-wrapper .education-container {
+  float:left;
+  margin: 5%;
+}
+
+.sidebar-wrapper .languages-container{
+	float:left;
+	margin: 5%;
+}
+
+.sidebar-wrapper .contact-list li {
+  margin-bottom: 0px;
+}
+
+.sidebar-wrapper .container-block {
+  padding: 0px;
+}
+
+.wrapper .sidebar-wrapper .profile-container{
+	padding: 0px;
+}
+
+.wrapper .summary-section .section-title{
+	margin-bottom: 0px;
+}
+
+.skillset .item {
+	margin-bottom: 0;
+}

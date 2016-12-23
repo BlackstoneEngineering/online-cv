@@ -7,7 +7,7 @@
     - Managed Developer Enablement team (Trainings, Example Deployments, Hackathons, Forums, community management, quality of experience)
     - Grew online community from 150K to over 300K developers during my time there
     - Spear headed push into China to expand our user base
-    - Specialization in Wi-Fi and BLE, see projects below
+    - Ran special projects to spearhead growth
 
 - Atlas Wearables:
   title: Lead Firmware Engineer
@@ -15,6 +15,7 @@
   company: Atlas Wearables
   details: |
     - Responsible for development and integration of multiple peripherals and their drivers (cap touch, BLE, accel, gyro, heart rate, display)
+    - Set up standards for BLE development between embedded, web app, and phone app teams
     - Scoped and implemented roadmap to product launch
 
 - TI:
@@ -23,8 +24,5 @@
   company: Texas Instruments
   details: |
     - Core software maintainer for StellarisWare/TivaWare Driverlib, NFClib and CC3000lib
-    - Responsible for maker community outreach at the local Hackerspace / TechShop
     - Create example applications across multiple pieces of silicon for CAN, CC3000, NFC
     - Implement NDEF level NFC stack for the TRF7970A transceiver
-    - Extensive work with various sensors (I2C & SSI)
-    - Migrate code repositories from SVN to GIT
