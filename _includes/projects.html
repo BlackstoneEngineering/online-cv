@@ -6,7 +6,13 @@
                 {% for project in site.data.projects %}
 
                 <div class="item">
-                    <span class="project-title"><a href="{{project.url}}">{{project.name}}</a></span> - <span class="project-tagline">{{project.description | markdownify | remove: '<p>' | remove: '</p>'}}</span>
+                    <span class="project-title">
+                    {% if project.url %}
+                    <a href="{{project.url}}">{{project.name}}</a>
+                    {% else %}
+                    {{project.name}}
+                    {% endif %}
+                    </span> - <span class="project-tagline">{{project.description | markdownify | remove: '<p>' | remove: '</p>'}}</span>
                     
                 </div><!--//item-->
                     
