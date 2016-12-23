@@ -1,21 +1,26 @@
 <section class="section projects-section">
-                <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+                <h2 class="section-title"><i class="fa fa-code-fork"></i>Projects</h2>
                 <div class="intro">
                     <p>{{site.project-header}}</p>
                 </div><!--//intro-->
+                <ul>
+                    
                 {% for project in site.data.projects %}
-
+                <li>
+                    
                 <div class="item">
                     <span class="project-title">
-                    {% if project.url %}
-                    <a href="{{project.url}}">{{project.name}}</a>
-                    {% else %}
-                    {{project.name}}
-                    {% endif %}
+                        {% if project.url %}
+                        <a href="{{project.url}}">{{project.name}}</a>
+                        {% else %}
+                        {{project.name}}
+                        {% endif %}
                     </span> - <span class="project-tagline">{{project.description | markdownify | remove: '<p>' | remove: '</p>'}}</span>
                     
                 </div><!--//item-->
+                </li>
                     
                 {% endfor %}
+                </ul>
 
             </section><!--//section-->

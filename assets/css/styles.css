@@ -188,7 +188,7 @@ p {
   top: -2px;
 }
 .main-wrapper .section {
-  margin-bottom: 60px;
+  margin-bottom: 5%;
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
@@ -225,7 +225,7 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+  margin-bottom: 1%;
 }
 .skillset .item {
   margin-bottom: 15px;
