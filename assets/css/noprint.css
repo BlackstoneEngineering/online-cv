@@ -110,6 +110,11 @@ body{
 	float:left;
 }
 
+.main-wrapper .skills-section {
+	margin-bottom: 0px;
+	margin: 0px;
+}
+
 .skillset .level-title::after{
 	content: ",\00a0";
 }
