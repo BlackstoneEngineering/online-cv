@@ -28,6 +28,8 @@ project-header: The projects I've worked on in the last 12 months run the gamut 
 # footer: copyright
 # Update all the sections by editing the files inside _includes folder.
 
+google-analytics-id: UA-47432525-2
+
 # Build settings
 markdown: kramdown
 permalink: pretty
