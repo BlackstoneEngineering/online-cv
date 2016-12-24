@@ -5,8 +5,11 @@
 @page {
       size: auto;
       margin: 5%;
+      margin-top:3%;
+      margin-bottom:1%;
   }
 
+/*prevent links from being inserted into the page*/
 a:link:after, a:visited:after {
     content: "";
 }
@@ -14,8 +17,6 @@ a:link:after, a:visited:after {
 body{
 	padding:0px;
 }
-
-
 
 .wrapper{
 	margin:0px;
@@ -62,6 +63,8 @@ body{
 
 .sidebar-wrapper .contact-list li {
   margin-bottom: 0px;
+  float:left;
+  padding-right:2%;
 }
 
 .sidebar-wrapper .container-block {
@@ -74,7 +77,11 @@ body{
 
 .main-wrapper .section-title{
 	margin-bottom:0px;
-	margin-top: 2%;
+	margin-top: 0%;
+}
+
+.main-wrapper .summary-section{
+	margin-top:5%;
 }
 
 .main-wrapper .time{
@@ -99,6 +106,10 @@ body{
     margin-bottom: 0px;
 }
 
-.skillset .item {
-	margin-bottom: 0;
+.skillset .item{
+	float:left;
+}
+
+.skillset .level-title::after{
+	content: ",\00a0";
 }

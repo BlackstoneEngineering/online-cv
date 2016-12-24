@@ -13,12 +13,12 @@
   description: |
     created [Youtube channel](https://youtube.com/armmbed), [workshop series](https://drive.google.com/open?id=0B9Whv5cCE_iEfldHdkp0RWtJbVhYeUFxWFcxNVQxaEpkeVZudS1YTUJtOGFOZVUzdlRhTHM), and [Quickstart program](https://blackstoneengineering.github.io/agency-jekyll-theme/)
 
-- project:
-  name: mbed Service Check
-  code: https://www.github.com/armmbed/mbedServiceCheck
-  youtube: 
-  description: |
-    Spearheaded Analytics program in China for mbed services
+# - project:
+#   name: mbed Service Check
+#   code: https://www.github.com/armmbed/mbedServiceCheck
+#   youtube: 
+#   description: |
+#     Spearheaded Analytics program in China for mbed services
 
 - project:
   name: mbed Connector python API
