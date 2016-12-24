@@ -2,33 +2,62 @@
 	display: none;
 }
 
-a:link, 
-a:visited { 
-	color: #520; 
-	background: transparent; 
-	font-weight: bold; 
-	text-decoration: underline; 
+@page {
+      size: auto;
+      margin: 5%;
+  }
+
+a:link:after, a:visited:after {
+    content: "";
 }
+
+body{
+	padding:0px;
+}
+
+
 
 .wrapper{
 	margin:0px;
 	padding:0px;
 }
 
+.main-wrapper{
+	padding:0px;
+	margin: 0px;
+}
+
+.sidebar-wrapper .name{
+	position: absolute;
+	left: 32%;
+    top: -5px;
+}
+
 .sidebar-wrapper{
 	margin:0px;
-	padding: 0px;
+	padding: 5%;
 	min-height: 0px;
+	padding-bottom: 0px;
+}
+
+.side-wrapper .contact-container{
+	margin: 0px;
+	padding: 0px;
+	padding-bottom: 0px;
 }
 
 .sidebar-wrapper .education-container {
-  float:left;
-  margin: 5%;
+  float:right;
+  margin: 3%;
 }
 
 .sidebar-wrapper .languages-container{
-	float:left;
-	margin: 5%;
+	float:right;
+	margin: 3%;
+}
+
+.sidebar-wrapper .languages-list li {
+    margin-bottom: 0px;
 }
 
 .sidebar-wrapper .contact-list li {
@@ -39,12 +68,35 @@ a:visited {
   padding: 0px;
 }
 
-.wrapper .sidebar-wrapper .profile-container{
+.sidebar-wrapper .profile-container{
 	padding: 0px;
 }
 
-.wrapper .summary-section .section-title{
-	margin-bottom: 0px;
+.main-wrapper .section-title{
+	margin-bottom:0px;
+	margin-top: 2%;
+}
+
+.main-wrapper .time{
+	position: absolute;
+    right: 0;
+    top: -10px;
+}
+
+.main-wrapper .experiences-section .item {
+	margin-bottom:0px;
+}
+
+.main-wrapper .company {
+    margin-bottom: 0px;
+}
+
+.main-wrapper .section {
+    margin-bottom: 0px;
+}
+
+.main-wrapper .projects-section .intro {
+    margin-bottom: 0px;
 }
 
 .skillset .item {
