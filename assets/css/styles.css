@@ -63,6 +63,9 @@ p {
 .sidebar-wrapper a {
   color: #fff;
 }
+.sidebar-wrapper .email {
+  font-size: 11px;
+}
 .sidebar-wrapper .profile-container {
   padding: 30px;
   background: rgba(0, 0, 0, 0.2);
