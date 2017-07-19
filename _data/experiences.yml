@@ -4,10 +4,15 @@
   date: September 2014 - Present
   company: ARM mbed
   details: |
-    - Managed Developer Enablement team (Trainings, Example Deployments, Hackathons, Forums, community management, quality of experience)
-    - Grew online community from 150K to over 300K developers during my time there
-    - Spear headed push into China to expand our user base
-    - Ran special projects to spearhead growth
+    - Tech lead Developer Experience team (Trainings, Example Deployments, Hackathons, Forums, community management, quality of experience)
+    - Grow community from 150K to over 300K developers
+    - Lead push into China to expand our user base and associated infrstructre enhancements to enable it
+    - Special projects to spearhead growth
+    - Created Continuous Integreation test shield to test external API's for mbed OS
+    - Worked with manufacturers in China and Europe to enable world wide distribution of hardware
+    - Created Eddystone BLE initial implementation on mbed
+    - Responsible for multiple large scale deployments of end to end IoT reference designs
+    - Produced workshops and getting started experience for onboarding developers into the ARM mbed platform
 
 - Atlas Wearables:
   title: Lead Firmware Engineer
