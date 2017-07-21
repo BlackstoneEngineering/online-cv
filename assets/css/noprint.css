@@ -51,6 +51,10 @@ body{
 	padding-bottom: 0px;
 }
 
+.sidebar-wrapper .email {
+    font-size: 14px;
+}
+
 .sidebar-wrapper .education-container {
   float:right;
   margin: 3%;
