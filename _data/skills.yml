@@ -16,13 +16,13 @@
   percent: 70
 
 - web:
-  name: Web (HTML / CSS / Javascript)
+  name: Web (HTML/CSS/Javascript)
   percent: 75
 
 - pcb:
-  name: PCB Design / Layout
+  name: PCB Design/Layout
   percent: 85
 
 - toolbench:
-  name: Logic Analyzer / Oscilloscope
+  name: Logic Analyzer/Oscilloscope
   percent: 100
