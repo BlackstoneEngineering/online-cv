@@ -31,3 +31,11 @@
     - Core software maintainer for StellarisWare/TivaWare Driverlib, NFClib, and CC3000lib
     - Created example applications across multiple pieces of silicon for CAN, CC3000, NFC
     - Implemented NDEF level NFC stack for the TRF7970A transceiver
+
+- TI:
+  title: Firmware Engineer, OMAP 5
+  date:  2012 - 2013
+  company: Texas Instruments
+  details: |
+    - Developed Firmware for the Windows RT tablet based on TI OMAP 5 ARM Cortex A15 processor
+    - Created Windows drivers for embedded components
