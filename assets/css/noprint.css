@@ -13,6 +13,10 @@
       margin-bottom:1%;
   }
 
+a:link {
+    color: blue;
+}
+
 /*prevent links from being inserted into the page*/
 a:link:after, a:visited:after {
     content: "";
@@ -100,6 +104,10 @@ body{
 
 .main-wrapper .experiences-section .item {
 	margin-bottom:0px;
+}
+
+.experiences-section .time {
+	margin-top: 0.5em;
 }
 
 .main-wrapper .company {
