@@ -8,11 +8,15 @@
   percent: 95
 
 - python:
-  name: python
+  name: Python
   percent: 85
 
+- node:
+  name: NodeJS
+  percent: 70
+
 - web:
-  name: web (HTML / CSS / Javascript)
+  name: Web (HTML / CSS / Javascript)
   percent: 75
 
 - pcb:

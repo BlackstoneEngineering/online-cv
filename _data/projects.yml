@@ -1,9 +1,9 @@
 ---
 - project:
-  name: Continuous Integration Test Shield
+  name: Continuous Integration test shield
   code: https://www.github.com/armmbed/ci-test-shield
   youtube: 
-  description: standardize mbed partner board validation process
+  description: Standardized mbed Partner board validation process
 
 
 - project:
@@ -11,7 +11,7 @@
   code: 
   youtube: https://www.youtube.com/armmbed
   description: |
-    created [Youtube channel](https://youtube.com/armmbed), [workshop series](https://drive.google.com/open?id=0B9Whv5cCE_iEfldHdkp0RWtJbVhYeUFxWFcxNVQxaEpkeVZudS1YTUJtOGFOZVUzdlRhTHM), and [Quickstart program](https://blackstoneengineering.github.io/agency-jekyll-theme/)
+    Created [Youtube channel](https://youtube.com/armmbed), [workshop series](https://drive.google.com/open?id=0B9Whv5cCE_iEfldHdkp0RWtJbVhYeUFxWFcxNVQxaEpkeVZudS1YTUJtOGFOZVUzdlRhTHM), and [quickstart program](https://blackstoneengineering.github.io/agency-jekyll-theme/)
 
 - project:
   name: mbed Service Check
@@ -21,22 +21,22 @@
     Spearheaded Analytics program in China for mbed services
 
 - project:
-  name: mbed Connector python API
+  name: mbed Connector Python API
   code: https://www.github.com/armmbed/mbed-connector-api-python
   youtube: https://www.youtube.com/watch?v=o2sqTh5hlco
   description: |
-    Created [python interface library](https://github.com/armmbed/mbed-connector-api-python) and [quickstart program](https://github.com/armmbed/mbed-connector-api-python-quickstart) to make mbed Connector web services easy to use
+    Created [Python interface library](https://github.com/armmbed/mbed-connector-api-python) and [quickstart program](https://github.com/armmbed/mbed-connector-api-python-quickstart) to make mbed Connector web services easy to use
 
 - project:
   name: Minecraft integration for mbed Connector
   code: https://github.com/BlackstoneEngineering/connector-minecraft-demo
-  youtube: https://www.youtu.be/mBdBw8urAKQ
+  youtube: https://www.youtube.com/watch?v=mBdBw8urAKQ
   description: |
-    Control minecraft from real world using python interface. [Code here](https://github.com/BlackstoneEngineering/connector-minecraft-demo)
+    Control Minecraft from real world using Python interface. [Code here](https://github.com/BlackstoneEngineering/connector-minecraft-demo)
 
 - project:
   name: Design and Automation Conference 2016 Demo
   code: https://www.github.com/BlackstoneEngineering/ble-scanner-station-demo
   youtube: 
   description: |
-    Dynamically insert ble beacon data into advertising signage
+    Demo to Dynamically inject BLE beacon data into advertising signage

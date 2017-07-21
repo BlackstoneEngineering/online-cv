@@ -1,33 +1,33 @@
 ---
 - ARMmbed:
   title: Senior Applications Engineer
-  date: September 2014 - Present
+  date: 2014 - Present
   company: ARM mbed
   details: |
-    - Tech lead Developer Experience team (Trainings, Example Deployments, Hackathons, Forums, community management, quality of experience)
-    - Grow community from 150K to over 300K developers
-    - Lead push into China to expand our user base and associated infrstructre enhancements to enable it
-    - Special projects to spearhead growth
-    - Created Continuous Integreation test shield to test external API's for mbed OS
+    - Tech lead, Developer Enablement team (trainings, example deployments, hackathons, forums, community management, quality of experience)
+    - Grew community from 150K to over 300K developers
+    - Led push into China to expand user base and associated infrastructure enhancements
+    - Completed special projects to spearhead growth
+    - Created continuous integration test shield to test external APIs for mbed OS
     - Worked with manufacturers in China and Europe to enable world wide distribution of hardware
     - Created Eddystone BLE initial implementation on mbed
-    - Responsible for multiple large scale deployments of end to end IoT reference designs
+    - Responsible for multiple large-scale deployments of end-to-end IoT reference designs
     - Produced workshops and getting started experience for onboarding developers into the ARM mbed platform
 
 - Atlas Wearables:
   title: Lead Firmware Engineer
-  date: July 2014 - August 2014
+  date: 2014
   company: Atlas Wearables
   details: |
-    - Responsible for development and integration of multiple peripherals and their drivers (cap touch, BLE, accel, gyro, heart rate, display)
-    - Set up standards for BLE development between embedded, web app, and phone app teams
-    - Scoped and implemented roadmap to product launch
+    - Responsible for development and integration of multiple peripherals and their drivers
+    - Set up standards for BLE development among embedded, web app, and phone app teams
+    - Scoped and implemented roadmap from minimum viable product to consumer product launch
 
 - TI:
   title: Core Software Engineer, ARM Cortex M3/M4
-  date: January 2013 - June 2014
+  date:  2013 - 2014
   company: Texas Instruments
   details: |
-    - Core software maintainer for StellarisWare/TivaWare Driverlib, NFClib and CC3000lib
-    - Create example applications across multiple pieces of silicon for CAN, CC3000, NFC
-    - Implement NDEF level NFC stack for the TRF7970A transceiver
+    - Core software maintainer for StellarisWare/TivaWare Driverlib, NFClib, and CC3000lib
+    - Created example applications across multiple pieces of silicon for CAN, CC3000, NFC
+    - Implemented NDEF level NFC stack for the TRF7970A transceiver
