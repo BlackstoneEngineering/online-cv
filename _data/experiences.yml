@@ -1,12 +1,38 @@
 ---
-- ARMmbed:
-  title: Senior Applications Engineer
-  date: 2014 - Present
+--ARM mbed: 
+  title: Developer Evangelist
+  date: Feb 2018 - Present
+  company: arm MBED
+  details: |
+    - Responsible for Developer Evangelism in North America to promote the MBED ecosystem
+
+-ARM mbed: 
+  title: Senior Apps Engineer - Tech Lead - Developer Experience
+  date: May 2017 - Feb 2018
+  company: arm MBED
+  details: |
+    - Established workshop program to leverage content one to many around the world
+    - Enabled management transition
+    - Mapped out strategy for expanding developer base in Asia-Pacific
+    - Continues to execute the best developer experience possible
+    - Shifted focus from spear heading to enabling team members
+
+-ARM mbed: 
+  title: Senior Apps Engineer - Team Lead - Developer Enablement
+  date: Sept 2016 - May 2017
+  company: ARM mbed
+  details: |
+    - Spearhead special project to expand user base in China
+    - Trained new team during rapid expansion in the company
+    - Shaped the developer focus within the company
+
+- ARM mbed:
+  title: Applications Engineer
+  date: 2014 - 2016
   company: ARM mbed
   details: |
     - Tech lead, Developer Enablement team (trainings, example deployments, hackathons, forums, community management, quality of experience)
     - Grew community from 150K to over 300K developers
-    - Led push into China to expand user base and associated infrastructure enhancements
     - Completed special projects to spearhead growth
     - Created continuous integration test shield to test external APIs for mbed OS
     - Worked with manufacturers in China and Europe to enable world wide distribution of hardware
