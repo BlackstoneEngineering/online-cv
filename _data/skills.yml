@@ -1,4 +1,8 @@
 ---
+- iot:
+  name: Internet of Things (IoT)
+  percent: 100
+
 - c:
   name: C/C++
   percent: 90
@@ -9,7 +13,7 @@
 
 - python:
   name: Python
-  percent: 85
+  percent: 75
 
 - node:
   name: NodeJS
@@ -21,8 +25,5 @@
 
 - pcb:
   name: PCB Design/Layout
-  percent: 85
+  percent: 55
 
-- toolbench:
-  name: Logic Analyzer/Oscilloscope
-  percent: 100

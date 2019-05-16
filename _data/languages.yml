@@ -7,10 +7,10 @@
   name: Japanese
   level: (Professional)
 
-- language3:
-  name: Spanish
-  level: (Knowledgeable)
+# - language3:
+#   name: Spanish
+#   level: (Knowledgeable)
 
-- language4:
-  name: Korean
-  level: (Knowledgeable)
+# - language4:
+#   name: Korean
+#   level: (Knowledgeable)

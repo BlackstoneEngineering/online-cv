@@ -1,5 +1,23 @@
 ---
 - project:
+  name: End to End Machine Learning Demo
+  code: https://github.com/BlackstoneEngineering/mbed-os-example-e2e-demo
+  youtube: https://youtu.be/FLgKuF572Ls
+  description: A [demo](https://youtu.be/FLgKuF572Ls) that leverages the entire Mbed OS / Pelion Services ecosystem to provide ML inference on the device, sending data to Pelion Data to warehouse the data, then processing a new ML model and deploy it back to the device using Pelion Update Service. 
+
+- project:
+  name: uTensor
+  code: http://www.utensor.ai
+  youtube: https://youtu.be/qhhCCwmUZr8
+  description: uTensor is a project that enables Machine Learning inference at the edge on Cortex M class devices by using quantization to reduce the size of Tensor Flow models. The project was officially absorbed into Tensor Flow Lite Micro in April 2019 at Google IO. 
+
+- project:
+  name: Arm Mbed Office Hours program
+  code: 
+  youtube: https://www.youtube.com/playlist?list=PLiVCejcvpsesfJNRfBHjzpM1AJXbCoqmx 
+  description: Created weekly [YouTube livestream](https://www.youtube.com/playlist?list=PLiVCejcvpsesfJNRfBHjzpM1AJXbCoqmx ) to give developers direct access to engineers for technical deep dives on selected topics. Both in English and Japanese.
+
+- project:
   name: Continuous Integration test shield
   code: https://www.github.com/armmbed/ci-test-shield
   youtube: 

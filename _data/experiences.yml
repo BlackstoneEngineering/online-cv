@@ -2,19 +2,22 @@
 - ARM mbed: 
   title: Developer Evangelist
   date: Feb 2018 - Present
-  company: arm MBED
+  company: Arm Mbed / Pelion
   details: |
-    - Responsible for Developer Evangelism in North America to promote the MBED ecosystem
+    - Responsible for Developer Evangelism in the Americas / Japan to promote the Mbed OS / Pelion Services ecosystem.
+    - Leveraged outreach programs to reach global audience. For example running Office Hours livestreams on youtube.com/armmbed
+    - Ran workshops to give developers hands on training (https://labs.mbed.com/workshops/)
+    - Expanded the developer audience to be a truely global audience
 
 - ARM mbed: 
   title: Senior Apps Engineer - Tech Lead - Developer Experience
   date: May 2017 - Feb 2018
-  company: arm MBED
+  company: Arm Mbed OS / Mbed Cloud
   details: |
     - Established workshop program to leverage content one to many around the world
     - Enabled management transition
     - Mapped out strategy for expanding developer base in Asia-Pacific
-    - Continues to execute the best developer experience possible
+    - Continueed to execute a world class developer experience for the platform
     - Shifted focus from spear heading to enabling team members
 
 - ARM mbed: 
@@ -64,4 +67,3 @@
   company: Texas Instruments
   details: |
     - Developed Firmware for the Windows RT tablet based on TI OMAP 5 ARM Cortex A15 processor
-    - Created Windows drivers for embedded components
