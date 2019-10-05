@@ -1,24 +1,32 @@
 ---
 - ARM mbed: 
+  title: Lead Developer Evangelist
+  date: June 2019 - Present
+  company: Arm Mbed / Pelion
+  details: |
+    - Lead Developer Evangelism team, setting priorities, goals, and driving team to maximum global impact. 
+    - Advocated developer voice within the company
+    - Drove cross functional process improvements to enhance developer experience across multiple teams
+
+- ARM mbed: 
   title: Developer Evangelist
-  date: Feb 2018 - Present
+  date: Feb 2018 - June 2019
   company: Arm Mbed / Pelion
   details: |
     - Responsible for Developer Evangelism in the Americas / Japan to promote the Mbed OS / Pelion Services ecosystem.
-    - Leveraged outreach programs to reach global audience. For example running Office Hours livestreams on youtube.com/armmbed
-    - Ran workshops to give developers hands on training (https://labs.mbed.com/workshops/)
-    - Expanded the developer audience to be a truely global audience
+    - Leveraged multiple methods to increase audience engagement 4x. 
+    - Created workshop series that doubled our interactions and post event leadgen and contributed to 1M+ in Sales closures. 
+    - Globalized developer audience through translation efforts and international workshop series. 
 
 - ARM mbed: 
-  title: Senior Apps Engineer - Tech Lead - Developer Experience
+  title: Tech Lead - Developer Experience
   date: May 2017 - Feb 2018
   company: Arm Mbed OS / Mbed Cloud
   details: |
-    - Established workshop program to leverage content one to many around the world
-    - Enabled management transition
-    - Mapped out strategy for expanding developer base in Asia-Pacific
-    - Continueed to execute a world class developer experience for the platform
-    - Shifted focus from spear heading to enabling team members
+    - Mentored junior engineers
+    - Authored strategy to expanding developer base in APAC over next 5 years
+    - Simplified out of box experience from 12 steps to 3. 
+    - Built a world class developer experience for the platform
 
 - ARM mbed: 
   title: Senior Apps Engineer - Team Lead - Developer Enablement
@@ -34,9 +42,8 @@
   date: 2014 - 2016
   company: ARM mbed
   details: |
-    - Tech lead, Developer Enablement team (trainings, example deployments, hackathons, forums, community management, quality of experience)
-    - Grew community from 150K to over 300K developers
-    - Completed special projects to spearhead growth
+    - Expanded Developer community from 150K to 300K+ developers
+    - Created CI test shield. Expanded CI coverage from 40% -> 98% API coverage
     - Created continuous integration test shield to test external APIs for mbed OS
     - Worked with manufacturers in China and Europe to enable world wide distribution of hardware
     - Created Eddystone BLE initial implementation on mbed
@@ -49,21 +56,13 @@
   company: Atlas Wearables
   details: |
     - Responsible for development and integration of multiple peripherals and their drivers
-    - Set up standards for BLE development among embedded, web app, and phone app teams
+    - Coordinated standards for BLE development among embedded, web app, and phone app teams
     - Scoped and implemented roadmap from minimum viable product to consumer product launch
 
 - TI:
-  title: Core Software Engineer, ARM Cortex M3/M4
-  date:  2013 - 2014
+  title: Software Engineer
+  date:  2012 - 2014
   company: Texas Instruments
   details: |
     - Core software maintainer for StellarisWare/TivaWare Driverlib, NFClib, and CC3000lib
-    - Created example applications across multiple pieces of silicon for CAN, CC3000, NFC
-    - Implemented NDEF level NFC stack for the TRF7970A transceiver
-
-- TI:
-  title: Firmware Engineer, OMAP 5
-  date:  2012 - 2013
-  company: Texas Instruments
-  details: |
-    - Developed Firmware for the Windows RT tablet based on TI OMAP 5 ARM Cortex A15 processor
+    - Worked on OMAP5 Tablet - a Microsoft Surface Competitor
