@@ -29,21 +29,21 @@
   code: 
   youtube: https://www.youtube.com/armmbed
   description: |
-    Created [Youtube channel](https://youtube.com/armmbed), [workshop series](https://drive.google.com/open?id=0B9Whv5cCE_iEfldHdkp0RWtJbVhYeUFxWFcxNVQxaEpkeVZudS1YTUJtOGFOZVUzdlRhTHM), and [quickstart program](https://blackstoneengineering.github.io/agency-jekyll-theme/)
+    Created [Youtube channel](https://youtube.com/armmbed), [workshop series](https://drive.google.com/open?id=0B9Whv5cCE_iEfldHdkp0RWtJbVhYeUFxWFcxNVQxaEpkeVZudS1YTUJtOGFOZVUzdlRhTHM), and [quickstart experience](https://blackstoneengineering.github.io/agency-jekyll-theme/)
 
 - project:
   name: mbed Service Check
   code: https://www.github.com/armmbed/mbedServiceCheck
   youtube: 
   description: |
-    Spearheaded Analytics program in China for mbed services
+    Spearheaded Analytics program in China for mbed services to get real time analytics of how our services were performing
 
 - project:
   name: mbed Connector Python API
   code: https://www.github.com/armmbed/mbed-connector-api-python
   youtube: https://www.youtube.com/watch?v=o2sqTh5hlco
   description: |
-    Created [Python interface library](https://github.com/armmbed/mbed-connector-api-python) and [quickstart program](https://github.com/armmbed/mbed-connector-api-python-quickstart) to make mbed Connector web services easy to use
+    Authored [Python SDK](https://github.com/armmbed/mbed-connector-api-python) and [QuickStart Out of Box Experience](https://github.com/armmbed/mbed-connector-api-python-quickstart) to make mbed Connector web services easy to use
 
 - project:
   name: Minecraft integration for mbed Connector
