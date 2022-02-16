@@ -1,14 +1,15 @@
 ---
 - Treasure Data: 
-  title: Developer Relations
+  title: Principal Developer Relations / Evangelist
   date: April 2020 - Present
-  company: Treasure Data KK
+  company: Treasure Data KK, Japan
   details: |
-    - Lead Developer Relations, focused on building community and scaling globally.
-    - Founded Developer Conference, revamped API docs, built forums, and so much more. 
+    - Created global developer relations program focused on building community. 
+    - Launched [Treasure Data Developer Summit](https://devsummit.treasuredata.com) - the premiere CDP developer summit. 
+    - Refactored documentation, created [Developer Docs](https://api-docs.treasuredata.com) - 3 panel REST API docs, quickstarts and tutorials.
 
 - ARM mbed: 
-  title: Lead Developer Evangelist
+  title: Developer Evangelist - Team Lead
   date: June 2019 - April 2020
   company: Arm Mbed / Pelion
   details: |
@@ -37,7 +38,7 @@
     - Built a world class developer experience for the platform
 
 - ARM mbed: 
-  title: Senior Apps Engineer - Team Lead - Developer Enablement
+  title: Senior Apps Engineer - Developer Enablement
   date: Sept 2016 - May 2017
   company: ARM mbed
   details: |
@@ -68,9 +69,9 @@
     - Scoped and implemented roadmap from minimum viable product to consumer product launch
 
 - TI:
-  title: Software Engineer
+  title: Embedded Software Engineer
   date:  2012 - 2014
   company: Texas Instruments
   details: |
-    - Core software maintainer for StellarisWare/TivaWare Driverlib, NFClib, and CC3000lib
+    - Core software maintainer for StellarisWare / TivaWare Driverlib, NFC lib, and CC3000lib for WiFi.
     - Worked on OMAP5 Tablet - a Microsoft Surface Competitor
