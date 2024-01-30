@@ -15,13 +15,13 @@
   name: Arm Mbed Office Hours program
   code: 
   youtube: https://www.youtube.com/playlist?list=PLiVCejcvpsesfJNRfBHjzpM1AJXbCoqmx 
-  description: Created weekly [YouTube livestream](https://www.youtube.com/playlist?list=PLiVCejcvpsesfJNRfBHjzpM1AJXbCoqmx ) to give developers direct access to engineers for technical deep dives on selected topics. Both in English and Japanese.
+  description: Create weekly [YouTube livestream](https://www.youtube.com/playlist?list=PLiVCejcvpsesfJNRfBHjzpM1AJXbCoqmx ) to give developers direct access to engineers for technical deep dives on selected topics. Both in English and Japanese.
 
 - project:
   name: Continuous Integration test shield
   code: https://www.github.com/armmbed/ci-test-shield
   youtube: 
-  description: Standardized mbed Partner board validation process
+  description: Standardize mbed Partner board validation process, automated community hardware certification, and trippled testing coverage to 98%.
 
 
 - project:
@@ -36,7 +36,7 @@
   code: https://www.github.com/armmbed/mbedServiceCheck
   youtube: 
   description: |
-    Spearheaded Analytics program in China for mbed services to get real time analytics of how our services were performing. 
+    Architect analytics program in China for mbed services. System designed to get real time service metrics and platform performance on the otherside of the GFW.
 
 - project:
   name: mbed Connector Python API
@@ -50,11 +50,11 @@
   code: https://github.com/BlackstoneEngineering/connector-minecraft-demo
   youtube: https://www.youtube.com/watch?v=mBdBw8urAKQ
   description: |
-    Control Minecraft from real world using Python interface. [Code here](https://github.com/BlackstoneEngineering/connector-minecraft-demo).
+    Control Minecraft from real world using Python interface. [Code here](https://github.com/BlackstoneEngineering/connector-minecraft-demo). Physical interaction triggers in-game event, like  item drops.
 
 - project:
   name: Design and Automation Conference 2016 Demo
   code: https://www.github.com/BlackstoneEngineering/ble-scanner-station-demo
   youtube: 
   description: |
-    Demo to Dynamically inject BLE beacon data into advertising signage.
+    Conference Demo to dynamically inject BLE beacon data into advertising signage. As attendee's would approach booths they would be greeted by name on the screen at the booth, and their contact details shared with booth. 
