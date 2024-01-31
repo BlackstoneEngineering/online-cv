@@ -18,11 +18,11 @@ tagline: Developer Evangelist
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-# email: 
+email: AustinBlackstoneEngineering@gmail.com
 phone: 
 website: austinblackstone.com #do not add http://
 linkedin: austinblackstone
-github: blackstoneengineering
+github: BlackstoneEngineering
 twitter: engineer_austin
 
 project-header: Full-stack engineer from chip to cloud. 
