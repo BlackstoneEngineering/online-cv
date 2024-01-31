@@ -1,6 +1,6 @@
 ---
 - project:
-  name: End to End Machine Learning Demo
+  name: Chip to Cloud Machine Learning Demo
   code: https://github.com/BlackstoneEngineering/mbed-os-example-e2e-demo
   youtube: https://youtu.be/FLgKuF572Ls
   description: A [demo](https://youtu.be/FLgKuF572Ls) that leverages the entire Mbed OS / Pelion Services ecosystem to provide ML inference on the device, sending data to Pelion Data to warehouse the data, then processing a new ML model and deploy it back to the device using Pelion Update Service. 
