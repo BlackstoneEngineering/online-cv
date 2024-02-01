@@ -1,29 +1,51 @@
 ---
-- iot:
-  name: Internet of Things (IoT)
-  percent: 100
+- Team Leadership:
+  name: Team Leadership
 
-- c:
-  name: C/C++
-  percent: 90
-
-- microcontrollers:
-  name: Embedded Systems 
-  percent: 95
+- presentation:
+  name: Communication, Presentation
 
 - python:
   name: Python
-  percent: 80
+
+- iot:
+  name: Internet of Things (IoT)
+
+- c:
+  name: C/C++
+
+- microcontrollers:
+  name: Bare Metal Embedded Systems (ARM Cortex-M / Thumb2)
 
 - node:
   name: NodeJS
-  percent: 80
 
 - rest:
   name: REST API's
-  percent: 75
 
-- presentation:
-  name: Communication
-  percent: 95
+- Problem Solving:
+  name: Problem Solving
 
+- Tutorials:
+  name: Tutorials
+
+- SDK:
+  name: SDK
+
+- Open-Source Software:
+  name: Open-Source Software
+
+- Demos:
+  name: Demos
+
+- Developer Relations:
+  name: Developer Relations
+
+- HTML:
+  name: HTML
+
+- Node:
+  name: Node
+
+- Git:
+  name: Git
