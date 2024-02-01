@@ -1,17 +1,24 @@
 <section class="skills-section section">
                 <h2 class="section-title"><i class="fa fa-microchip"></i>What I can do</h2>
                 <div class="skillset">        
-                    {% for skill in site.data.skills%}
+                    
 
                     <div class="item">
-                        <p class="level-title">{{skill.name}} {{skill[0]}}</p>
+                        <p class="level-title">
+
+                            {% for skill in site.data.skills%}
+                            {{skill.name}}
+                            {% endfor %}
+
+
+                        </p>
                         <!-- <div class="level-bar noprint">
                             <div class="level-bar-inner noprint" data-level="{{skill.percent}}%">
                             </div>                                      
                         </div> --><!--//level-bar-->                                 
                     </div><!--//item-->
 
-                    {% endfor %}
+                    
                     
                 </div>  
             </section><!--//skills-section-->
