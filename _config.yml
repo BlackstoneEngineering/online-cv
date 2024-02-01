@@ -14,7 +14,7 @@ baseurl: '/resume' #change it according to your repository name
 
 #Profile information
 name: Austin Blackstone
-tagline: Developer Evangelist
+tagline: Full-stack engineer from chip to cloud. 
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
@@ -25,7 +25,7 @@ linkedin: austinblackstone
 github: BlackstoneEngineering
 twitter: engineer_austin
 
-project-header: Full-stack engineer from chip to cloud. 
+project-header: Interesting demos, projects, programs and other items I have worked on.
 footer: |
   [view online - blackstoneengineering.github.io/resume](http://blackstoneengineering.github.io/resume)
 # Update all the sections by editing the files inside _includes folder.
