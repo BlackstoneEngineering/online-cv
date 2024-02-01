@@ -131,6 +131,10 @@ body{
     display:none;
 }
 
+.main-wrapper .projects-section ul{
+	margin-left:5%;
+}
+
 .skillset .item{
 	float:left;
 }
