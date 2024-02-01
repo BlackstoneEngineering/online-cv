@@ -135,7 +135,7 @@ body{
 	float:left;
 }
 
-.main-wrapper .skills-section {
+.main-wrapper .skills-section .skillset{
 /*	margin-top: 5px;*/
 	margin-bottom: 0px;
 	margin: 0px;
