@@ -89,6 +89,10 @@ body{
 	padding: 0px;
 }
 
+.main-wrapper .tagline{
+	display: none;
+}
+
 .main-wrapper .section-title{
 	margin-bottom:0px;
 	margin-top: 0%;
