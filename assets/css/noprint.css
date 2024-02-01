@@ -95,11 +95,15 @@ body{
 
 .main-wrapper .section-title{
 	margin-bottom:0px;
-	margin-top: 0%;
+	margin-top: 5px;
 }
 
 .main-wrapper .summary-section{
 	margin-top:5%;
+}
+
+.main-wrapper .summary {
+	margin-left: 5%;
 }
 
 .main-wrapper .time{
