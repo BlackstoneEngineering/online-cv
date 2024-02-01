@@ -125,8 +125,10 @@ body{
     margin-bottom: 0px;
 }
 
+
 .main-wrapper .projects-section .intro {
     margin-bottom: 0px;
+    display:none;
 }
 
 .skillset .item{
