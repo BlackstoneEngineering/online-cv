@@ -8,7 +8,7 @@
     - Author interactive product guides for key features.
     - Create and scale global developer relations program.
     - Launch [Treasure Data Developer Summit](https://devsummit.treasuredata.com) - the premiere CDP developer summit.
-    - Architect [Developer Docs](https://api-docs.treasuredata.com) - 3 panel REST API docs, quickstarts and tutorials.
+    - Architect [Developer Docs](https://api-docs.treasuredata.com) - 3 panel REST API reference docs, quickstarts, and tutorials.
     - Code, coordinate, and maintain the [Developer Blog](https://api-docs.treasuredata.com/blog) in cooperation with engineering leadership.
 
 - ARM mbed: 
@@ -18,7 +18,7 @@
   details: |
     - Lead Developer Evangelism team, setting strategy, goals, and driving global impact. 
     - Advocate developer voice within the company as a leadership priority.
-    - Drive cross functional process improvements to enhance developer experience across multiple teams.
+    - Drive cross-functional process improvements to enhance developer experience across multiple teams.
 
 - ARM mbed: 
   title: Developer Evangelist
@@ -36,7 +36,7 @@
   company: Arm Mbed OS / Mbed Cloud
   details: |
     - Author long-term strategy to expanding developer base in APAC over next 5 years.
-    - Simplify the out of box experience from 12 steps to 3. 
+    - Simplify the out-of-box experience from 12 steps to 3. 
     - Build a world class developer-focused experience for the platform.
 
 - ARM mbed: 
@@ -58,7 +58,7 @@
     - Work with manufacturers in China and Europe to enable world wide distribution of hardware.
     - Create Eddystone BLE initial implementation on mbed.
     - Responsible for multiple large-scale deployments of end-to-end IoT reference designs.
-    - Produce workshops / out of box experience to onboard developers on ARM mbed platform.
+    - Produce workshops / out-of-box experiences to onboard developers on ARM mbed platform.
 
 - Atlas Wearables:
   title: Lead Firmware Engineer
@@ -75,4 +75,4 @@
   company: Texas Instruments
   details: |
     - Core software maintainer for StellarisWare / TivaWare Driverlib, NFC lib, and CC3000lib for WiFi.
-    - Develope drivers for OMAP5 Tablet - a Microsoft Surface Competitor.
+    - Develop drivers for OMAP5 Tablet - a Microsoft Surface Competitor.

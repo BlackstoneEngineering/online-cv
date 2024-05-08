@@ -15,13 +15,13 @@
   name: Arm Mbed Office Hours program
   code: 
   youtube: https://www.youtube.com/playlist?list=PLiVCejcvpsesfJNRfBHjzpM1AJXbCoqmx 
-  description: Create weekly [YouTube livestream](https://www.youtube.com/playlist?list=PLiVCejcvpsesfJNRfBHjzpM1AJXbCoqmx ) to give developers direct access to engineers for technical deep dives on selected topics. Both in English and Japanese.
+  description: Create weekly [YouTube livestream](https://www.youtube.com/playlist?list=PLiVCejcvpsesfJNRfBHjzpM1AJXbCoqmx) to give developers direct access to engineers for technical deep dives on selected topics. Both in English and Japanese.
 
 - project:
   name: Continuous Integration test shield
   code: https://www.github.com/armmbed/ci-test-shield
   youtube: 
-  description: Standardize mbed Partner board validation process, automated community hardware certification, and trippled testing coverage to 98%.
+  description: Standardize mbed Partner board validation process, automated community hardware certification, and 3x testing coverage to 98%.
 
 
 - project:
@@ -50,11 +50,11 @@
   code: https://github.com/BlackstoneEngineering/connector-minecraft-demo
   youtube: https://www.youtube.com/watch?v=mBdBw8urAKQ
   description: |
-    Control Minecraft from real world using Python interface. [Code here](https://github.com/BlackstoneEngineering/connector-minecraft-demo). Physical interaction triggers in-game event, like  item drops.
+    Control Minecraft from real world using Python interface. [Code here](https://github.com/BlackstoneEngineering/connector-minecraft-demo). Physical interaction triggers in-game event, like item drops.
 
 - project:
   name: Design and Automation Conference 2016 Demo
   code: https://www.github.com/BlackstoneEngineering/ble-scanner-station-demo
   youtube: 
   description: |
-    Conference Demo to dynamically inject BLE beacon data into advertising signage. As attendee's would approach booths they would be greeted by name on the screen at the booth, and their contact details shared with booth. 
+    Conference Demo to dynamically inject BLE beacon data into advertising signage. Where attendees were personally greeted on the screen at the booth, and their contact details shared with booth vendor.
